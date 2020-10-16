@@ -1,8 +1,8 @@
 # AI-Social-Distancing-with-Mask-Detecion
-This is a Social Distancing Project where you can measure distance with in two faces and you can also check weather they've masks or not 
+This is a Social Distancing Project where you can measure distance between two faces and also check whether they're wearing masks or not. 
 
 
-For this project you need following dependensies
+For this project you'll need the following dependencies:
 1. TensorFlow
 2. Numpy
 3. imutils
@@ -11,6 +11,18 @@ For this project you need following dependensies
 6. pyttsx3
 
 
+### Executing Program:
+Open a terminal in the project folder and run the following commands:
+* to install dependencies
+```
+pip install -r requirements.txt
+```
+* run Main.py
+```
+python3 Main.py
+```
 
-Visit Other contributor to this project
+
+Visit contributors:
 https://github.com/giwilorjelly
+https://github.com/AtharvaNikam
