@@ -1,0 +1,10 @@
+imutils==0.5.3
+Keras-Preprocessing==1.1.0
+numpy 
+opencv-python==4.4.0.44
+pyttsx3==2.90
+scipy 
+tensorboard==2.2.1
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.2.0
+tensorflow-estimator==2.2.0
