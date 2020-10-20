@@ -27,7 +27,8 @@ def speak(str):
 
 cap = cv2.VideoCapture(0)
 
-face_model = cv2.CascadeClassifier(os.path.join(os.getcwd(),'haarcascade_frontalface_default.xml')) 
+#face_model = cv2.CascadeClassifier(os.path.join(os.getcwd(),'haarcascade_frontalface_default.xml')) 
+face_model = cv2.CascadeClassifier(os.path.join(os.getcwd(),'lbpcascade_frontalface_improved.xml')) 
 
 maskNet=load_model(os.path.join(os.getcwd(),'mobilenet_v2.model'))
 
